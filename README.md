@@ -1,3 +1,4 @@
 # AulaDotnet
 
-Olá, turma mais linda ;)
+Olá, turma mais linda ^^
+
